@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @daniellefortin2021
 - 👀 I’m interested in creating websites for small businesses and nonprofit organizations
-- 🌱 I’m currently learning Boostrap 4.
+- 🌱 I’m currently learning HTML, CSS, and JavaScript.
 - 📫 How to reach me: fortind6@gmail.com
 
 <!---
