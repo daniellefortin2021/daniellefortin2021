@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @daniellefortin2021
 - 👀 I’m interested in creating websites for small businesses and nonprofit organizations
-- 🌱 I’m currently learning HTML, CSS, and JavaScript.
+- 🌱 I’m currently learning JavaScript.
 - 📫 How to reach me: fortind6@gmail.com
 
 <!---
