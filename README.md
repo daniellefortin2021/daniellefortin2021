@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @daniellefortin2021
 - 👀 I’m interested in creating websites for small businesses and nonprofit organizations
-- 🌱 I’m currently learning Node.
+- 🌱 I’m currently learning MySql
 - 📫 How to reach me: fortind6@gmail.com
 
 <!---
